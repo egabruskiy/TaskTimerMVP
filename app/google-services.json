@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "200802715043",
+    "firebase_url": "https://tasktimer-647bd.firebaseio.com",
+    "project_id": "tasktimer-647bd",
+    "storage_bucket": "tasktimer-647bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200802715043:android:9cc466fb42b3e853",
+        "android_client_info": {
+          "package_name": "com.egabruskiy.tasktimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200802715043-25ul7uhb1jgtnirlprgo4dunj53pj39k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEsJXdn-yPFvTb6y4lJ_R4wFHtTI0cUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
